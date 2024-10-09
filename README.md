@@ -9,14 +9,14 @@ My main goal is to write clean, understandable code and make the world a little 
 
 ## 🔧 My Skills
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python
-- ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Django
-- ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Flask
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Python           ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) Django              ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) Flask
+
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker           ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML                    ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS
+
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) MongoDB                                                                                                                           ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) Git
+
+
+
 
 ## 🌱 What I'm Currently Working On
 
